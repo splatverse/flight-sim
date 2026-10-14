@@ -4,10 +4,10 @@ A 3D flight simulator that runs in the browser, built with Next.js, Three.js and
 Pick an aircraft, choose a mission and fly: free flight, a ring course against the clock, or a
 landing trial. MIT licensed.
 
-Part of [splatverse](https://github.com/splatverse), a collection of open-source 3D projects for the browser.
-Siblings: [Arcade 3D](https://github.com/splatverse/arcade-3d) (five browser 3D games),
-[Live 3D Cricket](https://github.com/splatverse/live-3d-cricket) (commentary feeds as 3D cricket) and
-[Splat Studio](https://github.com/splatverse/splat-studio) (video to 3D Gaussian splats).
+Part of [webgl-games](https://github.com/webgl-games), open-source games and 3D experiences for the browser.
+Siblings: [Arcade 3D](https://github.com/webgl-games/arcade-3d) (five browser 3D games),
+[Live 3D Cricket](https://github.com/webgl-games/live-3d-cricket) (commentary feeds as 3D cricket) and
+[OpenCity](https://github.com/webgl-games/opencity) (an open-world driving game in Godot).
 
 ## Features
 
