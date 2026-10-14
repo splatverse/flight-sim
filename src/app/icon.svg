@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Flight Sim tab icon: a white jet climbing across a sky-blue disc -->
+  <circle cx="32" cy="32" r="30" fill="#0b1726"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <g transform="rotate(-35 32 32)" fill="#e0f2fe">
+    <path d="M32 10c2 0 3 3 3 7v10l16 9v4l-16-4v9l5 4v3l-8-2-8 2v-3l5-4v-9l-16 4v-4l16-9V17c0-4 1-7 3-7z"/>
+  </g>
+</svg>
